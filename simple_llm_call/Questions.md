@@ -3,7 +3,7 @@
 
 
 1.	Use gpt-3.5-turbo and explain Machine Learning in simple terms.
-2.	Use Gemini 1.5 Pro to summarize a given paragraph in 3–4 sentences.
+2.	Use llama-4-scout to summarize a given paragraph in 3–4 sentences.
 3.	Use GPT-4o to generate a short poem about Artificial Intelligence.
 4.	Use GPT-3.5 Turbo to create 5 SQL interview questions for beginners.
 5.	Use Claude 3 Haiku to translate a sentence from English to Spanish.
